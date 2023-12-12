@@ -1,2 +1,2 @@
 # quiz-app
-Quiz app built with HTML, CSS and JavaScript.
+Quiz app interface built with HTML and CSS.
